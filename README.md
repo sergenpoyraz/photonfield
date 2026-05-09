@@ -25,7 +25,7 @@
 Python **3.10+** önerilir.
 
 ```bash
-git clone https://github.com/KULLANICI_ADIN/PhotonField.git
+git clone https://github.com/sergenpoyraz/photonfield.git
 cd PhotonField
 python -m venv .venv
 
